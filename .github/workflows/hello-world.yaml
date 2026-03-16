@@ -27,3 +27,4 @@ jobs:
       # runs our "Hello world" shell script
       - name: Runs the "Hello World" script
         run: ./index.sh
+          echo "job is done"
